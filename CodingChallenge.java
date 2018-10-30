@@ -1,3 +1,7 @@
+// Julian Silerio
+// From Erin Kogan, Beespoke Consulting
+// Completed 10/29/2018
+
 import java.util.Arrays;
 public class CodingChallenge {
 
